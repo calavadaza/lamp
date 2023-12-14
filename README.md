@@ -19,8 +19,8 @@ Auto Install Lamp It is an application for ubuntu server 20.04 where it automati
 ### FOR INSTALL
 
 ```
-$ wget 
-$ sudo chmod +x lamp.sh
+$ wget https://raw.githubusercontent.com/calavadaza/lamp/main/lamp.sh
+$ chmod +x lamp.sh
 $ ./lamp.sh
 ```
 
